@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OOP Tutorial 3 — Product Service
 
 Module: 5COSC019C Object Oriented Programming
@@ -51,3 +52,7 @@ This project demonstrates a `Product` model, an in-memory `List<Product>`, a Spr
 7. Test `GET /products/search?name=Mou`.
 
 
+=======
+# Tute-03
+Week 04 Tutorial 
+>>>>>>> be303e0fd597a78af8887de12585f2645c346782
